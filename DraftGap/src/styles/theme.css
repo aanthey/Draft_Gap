@@ -1,0 +1,20 @@
+/* Font families and basic colors only. Layout stays in your own CSS. */
+body {
+  font-family: var(--font-ui);
+  background-color: var(--color-background);
+  color: var(--color-text);
+}
+
+h1 {
+  font-family: var(--font-display);
+}
+
+h1,
+h2,
+h3 {
+  color: var(--color-heading);
+}
+
+a {
+  color: var(--color-link);
+}

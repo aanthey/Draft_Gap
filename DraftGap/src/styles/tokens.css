@@ -1,0 +1,2 @@
+/* Only import one palette here. The night palette is available for later. */
+@import './light-tokens.css';

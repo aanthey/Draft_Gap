@@ -58,6 +58,10 @@ The planned Netlify settings are:
 - Build command: `npm run build`
 - Publish directory: `dist` (relative to the base directory)
 
+## Design
+
+The interface uses the Royal Blue and Gold light theme, with DM Sans for the interface and Lora for the main heading. See the [design setup notes](docs/design/README.md) for styling files, asset paths, and the included alternate night palette.
+
 ## Champion Data and Images
 
 Champion data and images come from Riot Games' public Data Dragon service. These public assets do not require an API key.

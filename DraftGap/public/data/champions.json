@@ -1,0 +1,1862 @@
+[
+  {
+    "id": "Aatrox",
+    "name": "Aatrox",
+    "title": "the Darkin Blade",
+    "tags": [
+      "Fighter"
+    ],
+    "icon": "/assets/champions/icons/Aatrox.png",
+    "portrait": "/assets/champions/portraits/Aatrox.jpg"
+  },
+  {
+    "id": "Ahri",
+    "name": "Ahri",
+    "title": "the Nine-Tailed Fox",
+    "tags": [
+      "Mage",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Ahri.png",
+    "portrait": "/assets/champions/portraits/Ahri.jpg"
+  },
+  {
+    "id": "Akali",
+    "name": "Akali",
+    "title": "the Rogue Assassin",
+    "tags": [
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Akali.png",
+    "portrait": "/assets/champions/portraits/Akali.jpg"
+  },
+  {
+    "id": "Akshan",
+    "name": "Akshan",
+    "title": "the Rogue Sentinel",
+    "tags": [
+      "Marksman",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Akshan.png",
+    "portrait": "/assets/champions/portraits/Akshan.jpg"
+  },
+  {
+    "id": "Alistar",
+    "name": "Alistar",
+    "title": "the Minotaur",
+    "tags": [
+      "Tank",
+      "Support"
+    ],
+    "icon": "/assets/champions/icons/Alistar.png",
+    "portrait": "/assets/champions/portraits/Alistar.jpg"
+  },
+  {
+    "id": "Ambessa",
+    "name": "Ambessa",
+    "title": "Matriarch of War",
+    "tags": [
+      "Fighter",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Ambessa.png",
+    "portrait": "/assets/champions/portraits/Ambessa.jpg"
+  },
+  {
+    "id": "Amumu",
+    "name": "Amumu",
+    "title": "the Sad Mummy",
+    "tags": [
+      "Tank",
+      "Support"
+    ],
+    "icon": "/assets/champions/icons/Amumu.png",
+    "portrait": "/assets/champions/portraits/Amumu.jpg"
+  },
+  {
+    "id": "Anivia",
+    "name": "Anivia",
+    "title": "the Cryophoenix",
+    "tags": [
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Anivia.png",
+    "portrait": "/assets/champions/portraits/Anivia.jpg"
+  },
+  {
+    "id": "Annie",
+    "name": "Annie",
+    "title": "the Dark Child",
+    "tags": [
+      "Mage",
+      "Support"
+    ],
+    "icon": "/assets/champions/icons/Annie.png",
+    "portrait": "/assets/champions/portraits/Annie.jpg"
+  },
+  {
+    "id": "Aphelios",
+    "name": "Aphelios",
+    "title": "the Weapon of the Faithful",
+    "tags": [
+      "Marksman"
+    ],
+    "icon": "/assets/champions/icons/Aphelios.png",
+    "portrait": "/assets/champions/portraits/Aphelios.jpg"
+  },
+  {
+    "id": "Ashe",
+    "name": "Ashe",
+    "title": "the Frost Archer",
+    "tags": [
+      "Marksman",
+      "Support"
+    ],
+    "icon": "/assets/champions/icons/Ashe.png",
+    "portrait": "/assets/champions/portraits/Ashe.jpg"
+  },
+  {
+    "id": "AurelionSol",
+    "name": "Aurelion Sol",
+    "title": "The Star Forger",
+    "tags": [
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/AurelionSol.png",
+    "portrait": "/assets/champions/portraits/AurelionSol.jpg"
+  },
+  {
+    "id": "Aurora",
+    "name": "Aurora",
+    "title": "the Witch Between Worlds",
+    "tags": [
+      "Mage",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Aurora.png",
+    "portrait": "/assets/champions/portraits/Aurora.jpg"
+  },
+  {
+    "id": "Azir",
+    "name": "Azir",
+    "title": "the Emperor of the Sands",
+    "tags": [
+      "Mage",
+      "Marksman"
+    ],
+    "icon": "/assets/champions/icons/Azir.png",
+    "portrait": "/assets/champions/portraits/Azir.jpg"
+  },
+  {
+    "id": "Bard",
+    "name": "Bard",
+    "title": "the Wandering Caretaker",
+    "tags": [
+      "Support",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Bard.png",
+    "portrait": "/assets/champions/portraits/Bard.jpg"
+  },
+  {
+    "id": "Belveth",
+    "name": "Bel'Veth",
+    "title": "the Empress of the Void",
+    "tags": [
+      "Fighter"
+    ],
+    "icon": "/assets/champions/icons/Belveth.png",
+    "portrait": "/assets/champions/portraits/Belveth.jpg"
+  },
+  {
+    "id": "Blitzcrank",
+    "name": "Blitzcrank",
+    "title": "the Great Steam Golem",
+    "tags": [
+      "Tank",
+      "Support"
+    ],
+    "icon": "/assets/champions/icons/Blitzcrank.png",
+    "portrait": "/assets/champions/portraits/Blitzcrank.jpg"
+  },
+  {
+    "id": "Brand",
+    "name": "Brand",
+    "title": "the Burning Vengeance",
+    "tags": [
+      "Mage",
+      "Support"
+    ],
+    "icon": "/assets/champions/icons/Brand.png",
+    "portrait": "/assets/champions/portraits/Brand.jpg"
+  },
+  {
+    "id": "Braum",
+    "name": "Braum",
+    "title": "the Heart of the Freljord",
+    "tags": [
+      "Tank",
+      "Support"
+    ],
+    "icon": "/assets/champions/icons/Braum.png",
+    "portrait": "/assets/champions/portraits/Braum.jpg"
+  },
+  {
+    "id": "Briar",
+    "name": "Briar",
+    "title": "the Restrained Hunger",
+    "tags": [
+      "Fighter",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Briar.png",
+    "portrait": "/assets/champions/portraits/Briar.jpg"
+  },
+  {
+    "id": "Caitlyn",
+    "name": "Caitlyn",
+    "title": "the Sheriff of Piltover",
+    "tags": [
+      "Marksman"
+    ],
+    "icon": "/assets/champions/icons/Caitlyn.png",
+    "portrait": "/assets/champions/portraits/Caitlyn.jpg"
+  },
+  {
+    "id": "Camille",
+    "name": "Camille",
+    "title": "the Steel Shadow",
+    "tags": [
+      "Fighter",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Camille.png",
+    "portrait": "/assets/champions/portraits/Camille.jpg"
+  },
+  {
+    "id": "Cassiopeia",
+    "name": "Cassiopeia",
+    "title": "the Serpent's Embrace",
+    "tags": [
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Cassiopeia.png",
+    "portrait": "/assets/champions/portraits/Cassiopeia.jpg"
+  },
+  {
+    "id": "Chogath",
+    "name": "Cho'Gath",
+    "title": "the Terror of the Void",
+    "tags": [
+      "Tank",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Chogath.png",
+    "portrait": "/assets/champions/portraits/Chogath.jpg"
+  },
+  {
+    "id": "Corki",
+    "name": "Corki",
+    "title": "the Daring Bombardier",
+    "tags": [
+      "Marksman",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Corki.png",
+    "portrait": "/assets/champions/portraits/Corki.jpg"
+  },
+  {
+    "id": "Darius",
+    "name": "Darius",
+    "title": "the Hand of Noxus",
+    "tags": [
+      "Fighter",
+      "Tank"
+    ],
+    "icon": "/assets/champions/icons/Darius.png",
+    "portrait": "/assets/champions/portraits/Darius.jpg"
+  },
+  {
+    "id": "Diana",
+    "name": "Diana",
+    "title": "Scorn of the Moon",
+    "tags": [
+      "Fighter",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Diana.png",
+    "portrait": "/assets/champions/portraits/Diana.jpg"
+  },
+  {
+    "id": "Draven",
+    "name": "Draven",
+    "title": "the Glorious Executioner",
+    "tags": [
+      "Marksman"
+    ],
+    "icon": "/assets/champions/icons/Draven.png",
+    "portrait": "/assets/champions/portraits/Draven.jpg"
+  },
+  {
+    "id": "DrMundo",
+    "name": "Dr. Mundo",
+    "title": "the Madman of Zaun",
+    "tags": [
+      "Tank",
+      "Fighter"
+    ],
+    "icon": "/assets/champions/icons/DrMundo.png",
+    "portrait": "/assets/champions/portraits/DrMundo.jpg"
+  },
+  {
+    "id": "Ekko",
+    "name": "Ekko",
+    "title": "the Boy Who Shattered Time",
+    "tags": [
+      "Assassin",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Ekko.png",
+    "portrait": "/assets/champions/portraits/Ekko.jpg"
+  },
+  {
+    "id": "Elise",
+    "name": "Elise",
+    "title": "the Spider Queen",
+    "tags": [
+      "Assassin",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Elise.png",
+    "portrait": "/assets/champions/portraits/Elise.jpg"
+  },
+  {
+    "id": "Evelynn",
+    "name": "Evelynn",
+    "title": "Agony's Embrace",
+    "tags": [
+      "Assassin",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Evelynn.png",
+    "portrait": "/assets/champions/portraits/Evelynn.jpg"
+  },
+  {
+    "id": "Ezreal",
+    "name": "Ezreal",
+    "title": "the Prodigal Explorer",
+    "tags": [
+      "Marksman",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Ezreal.png",
+    "portrait": "/assets/champions/portraits/Ezreal.jpg"
+  },
+  {
+    "id": "Fiddlesticks",
+    "name": "Fiddlesticks",
+    "title": "the Ancient Fear",
+    "tags": [
+      "Mage",
+      "Support"
+    ],
+    "icon": "/assets/champions/icons/Fiddlesticks.png",
+    "portrait": "/assets/champions/portraits/Fiddlesticks.jpg"
+  },
+  {
+    "id": "Fiora",
+    "name": "Fiora",
+    "title": "the Grand Duelist",
+    "tags": [
+      "Fighter",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Fiora.png",
+    "portrait": "/assets/champions/portraits/Fiora.jpg"
+  },
+  {
+    "id": "Fizz",
+    "name": "Fizz",
+    "title": "the Tidal Trickster",
+    "tags": [
+      "Assassin",
+      "Fighter"
+    ],
+    "icon": "/assets/champions/icons/Fizz.png",
+    "portrait": "/assets/champions/portraits/Fizz.jpg"
+  },
+  {
+    "id": "Galio",
+    "name": "Galio",
+    "title": "the Colossus",
+    "tags": [
+      "Tank",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Galio.png",
+    "portrait": "/assets/champions/portraits/Galio.jpg"
+  },
+  {
+    "id": "Gangplank",
+    "name": "Gangplank",
+    "title": "the Saltwater Scourge",
+    "tags": [
+      "Fighter"
+    ],
+    "icon": "/assets/champions/icons/Gangplank.png",
+    "portrait": "/assets/champions/portraits/Gangplank.jpg"
+  },
+  {
+    "id": "Garen",
+    "name": "Garen",
+    "title": "The Might of Demacia",
+    "tags": [
+      "Fighter",
+      "Tank"
+    ],
+    "icon": "/assets/champions/icons/Garen.png",
+    "portrait": "/assets/champions/portraits/Garen.jpg"
+  },
+  {
+    "id": "Gnar",
+    "name": "Gnar",
+    "title": "the Missing Link",
+    "tags": [
+      "Fighter",
+      "Tank"
+    ],
+    "icon": "/assets/champions/icons/Gnar.png",
+    "portrait": "/assets/champions/portraits/Gnar.jpg"
+  },
+  {
+    "id": "Gragas",
+    "name": "Gragas",
+    "title": "the Rabble Rouser",
+    "tags": [
+      "Fighter",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Gragas.png",
+    "portrait": "/assets/champions/portraits/Gragas.jpg"
+  },
+  {
+    "id": "Graves",
+    "name": "Graves",
+    "title": "the Outlaw",
+    "tags": [
+      "Marksman"
+    ],
+    "icon": "/assets/champions/icons/Graves.png",
+    "portrait": "/assets/champions/portraits/Graves.jpg"
+  },
+  {
+    "id": "Gwen",
+    "name": "Gwen",
+    "title": "The Hallowed Seamstress",
+    "tags": [
+      "Fighter"
+    ],
+    "icon": "/assets/champions/icons/Gwen.png",
+    "portrait": "/assets/champions/portraits/Gwen.jpg"
+  },
+  {
+    "id": "Hecarim",
+    "name": "Hecarim",
+    "title": "the Shadow of War",
+    "tags": [
+      "Fighter",
+      "Tank"
+    ],
+    "icon": "/assets/champions/icons/Hecarim.png",
+    "portrait": "/assets/champions/portraits/Hecarim.jpg"
+  },
+  {
+    "id": "Heimerdinger",
+    "name": "Heimerdinger",
+    "title": "the Revered Inventor",
+    "tags": [
+      "Mage",
+      "Support"
+    ],
+    "icon": "/assets/champions/icons/Heimerdinger.png",
+    "portrait": "/assets/champions/portraits/Heimerdinger.jpg"
+  },
+  {
+    "id": "Hwei",
+    "name": "Hwei",
+    "title": "the Visionary",
+    "tags": [
+      "Mage",
+      "Support"
+    ],
+    "icon": "/assets/champions/icons/Hwei.png",
+    "portrait": "/assets/champions/portraits/Hwei.jpg"
+  },
+  {
+    "id": "Illaoi",
+    "name": "Illaoi",
+    "title": "the Kraken Priestess",
+    "tags": [
+      "Fighter",
+      "Tank"
+    ],
+    "icon": "/assets/champions/icons/Illaoi.png",
+    "portrait": "/assets/champions/portraits/Illaoi.jpg"
+  },
+  {
+    "id": "Irelia",
+    "name": "Irelia",
+    "title": "the Blade Dancer",
+    "tags": [
+      "Fighter",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Irelia.png",
+    "portrait": "/assets/champions/portraits/Irelia.jpg"
+  },
+  {
+    "id": "Ivern",
+    "name": "Ivern",
+    "title": "the Green Father",
+    "tags": [
+      "Support",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Ivern.png",
+    "portrait": "/assets/champions/portraits/Ivern.jpg"
+  },
+  {
+    "id": "Janna",
+    "name": "Janna",
+    "title": "the Storm's Fury",
+    "tags": [
+      "Support",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Janna.png",
+    "portrait": "/assets/champions/portraits/Janna.jpg"
+  },
+  {
+    "id": "JarvanIV",
+    "name": "Jarvan IV",
+    "title": "the Exemplar of Demacia",
+    "tags": [
+      "Fighter",
+      "Tank"
+    ],
+    "icon": "/assets/champions/icons/JarvanIV.png",
+    "portrait": "/assets/champions/portraits/JarvanIV.jpg"
+  },
+  {
+    "id": "Jax",
+    "name": "Jax",
+    "title": "Grandmaster at Arms",
+    "tags": [
+      "Fighter"
+    ],
+    "icon": "/assets/champions/icons/Jax.png",
+    "portrait": "/assets/champions/portraits/Jax.jpg"
+  },
+  {
+    "id": "Jayce",
+    "name": "Jayce",
+    "title": "the Defender of Tomorrow",
+    "tags": [
+      "Fighter",
+      "Marksman"
+    ],
+    "icon": "/assets/champions/icons/Jayce.png",
+    "portrait": "/assets/champions/portraits/Jayce.jpg"
+  },
+  {
+    "id": "Jhin",
+    "name": "Jhin",
+    "title": "the Virtuoso",
+    "tags": [
+      "Marksman",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Jhin.png",
+    "portrait": "/assets/champions/portraits/Jhin.jpg"
+  },
+  {
+    "id": "Jinx",
+    "name": "Jinx",
+    "title": "the Loose Cannon",
+    "tags": [
+      "Marksman"
+    ],
+    "icon": "/assets/champions/icons/Jinx.png",
+    "portrait": "/assets/champions/portraits/Jinx.jpg"
+  },
+  {
+    "id": "Kaisa",
+    "name": "Kai'Sa",
+    "title": "Daughter of the Void",
+    "tags": [
+      "Marksman",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Kaisa.png",
+    "portrait": "/assets/champions/portraits/Kaisa.jpg"
+  },
+  {
+    "id": "Kalista",
+    "name": "Kalista",
+    "title": "the Spear of Vengeance",
+    "tags": [
+      "Marksman"
+    ],
+    "icon": "/assets/champions/icons/Kalista.png",
+    "portrait": "/assets/champions/portraits/Kalista.jpg"
+  },
+  {
+    "id": "Karma",
+    "name": "Karma",
+    "title": "the Enlightened One",
+    "tags": [
+      "Mage",
+      "Support"
+    ],
+    "icon": "/assets/champions/icons/Karma.png",
+    "portrait": "/assets/champions/portraits/Karma.jpg"
+  },
+  {
+    "id": "Karthus",
+    "name": "Karthus",
+    "title": "the Deathsinger",
+    "tags": [
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Karthus.png",
+    "portrait": "/assets/champions/portraits/Karthus.jpg"
+  },
+  {
+    "id": "Kassadin",
+    "name": "Kassadin",
+    "title": "the Void Walker",
+    "tags": [
+      "Assassin",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Kassadin.png",
+    "portrait": "/assets/champions/portraits/Kassadin.jpg"
+  },
+  {
+    "id": "Katarina",
+    "name": "Katarina",
+    "title": "the Sinister Blade",
+    "tags": [
+      "Assassin",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Katarina.png",
+    "portrait": "/assets/champions/portraits/Katarina.jpg"
+  },
+  {
+    "id": "Kayle",
+    "name": "Kayle",
+    "title": "the Righteous",
+    "tags": [
+      "Marksman",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Kayle.png",
+    "portrait": "/assets/champions/portraits/Kayle.jpg"
+  },
+  {
+    "id": "Kayn",
+    "name": "Kayn",
+    "title": "the Shadow Reaper",
+    "tags": [
+      "Fighter",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Kayn.png",
+    "portrait": "/assets/champions/portraits/Kayn.jpg"
+  },
+  {
+    "id": "Kennen",
+    "name": "Kennen",
+    "title": "the Heart of the Tempest",
+    "tags": [
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Kennen.png",
+    "portrait": "/assets/champions/portraits/Kennen.jpg"
+  },
+  {
+    "id": "Khazix",
+    "name": "Kha'Zix",
+    "title": "the Voidreaver",
+    "tags": [
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Khazix.png",
+    "portrait": "/assets/champions/portraits/Khazix.jpg"
+  },
+  {
+    "id": "Kindred",
+    "name": "Kindred",
+    "title": "The Eternal Hunters",
+    "tags": [
+      "Marksman"
+    ],
+    "icon": "/assets/champions/icons/Kindred.png",
+    "portrait": "/assets/champions/portraits/Kindred.jpg"
+  },
+  {
+    "id": "Kled",
+    "name": "Kled",
+    "title": "the Cantankerous Cavalier",
+    "tags": [
+      "Fighter"
+    ],
+    "icon": "/assets/champions/icons/Kled.png",
+    "portrait": "/assets/champions/portraits/Kled.jpg"
+  },
+  {
+    "id": "KogMaw",
+    "name": "Kog'Maw",
+    "title": "the Mouth of the Abyss",
+    "tags": [
+      "Marksman",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/KogMaw.png",
+    "portrait": "/assets/champions/portraits/KogMaw.jpg"
+  },
+  {
+    "id": "KSante",
+    "name": "K'Sante",
+    "title": "the Pride of Nazumah",
+    "tags": [
+      "Tank",
+      "Fighter"
+    ],
+    "icon": "/assets/champions/icons/KSante.png",
+    "portrait": "/assets/champions/portraits/KSante.jpg"
+  },
+  {
+    "id": "Leblanc",
+    "name": "LeBlanc",
+    "title": "the Deceiver",
+    "tags": [
+      "Assassin",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Leblanc.png",
+    "portrait": "/assets/champions/portraits/Leblanc.jpg"
+  },
+  {
+    "id": "LeeSin",
+    "name": "Lee Sin",
+    "title": "the Blind Monk",
+    "tags": [
+      "Fighter",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/LeeSin.png",
+    "portrait": "/assets/champions/portraits/LeeSin.jpg"
+  },
+  {
+    "id": "Leona",
+    "name": "Leona",
+    "title": "the Radiant Dawn",
+    "tags": [
+      "Tank",
+      "Support"
+    ],
+    "icon": "/assets/champions/icons/Leona.png",
+    "portrait": "/assets/champions/portraits/Leona.jpg"
+  },
+  {
+    "id": "Lillia",
+    "name": "Lillia",
+    "title": "the Bashful Bloom",
+    "tags": [
+      "Fighter",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Lillia.png",
+    "portrait": "/assets/champions/portraits/Lillia.jpg"
+  },
+  {
+    "id": "Lissandra",
+    "name": "Lissandra",
+    "title": "the Ice Witch",
+    "tags": [
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Lissandra.png",
+    "portrait": "/assets/champions/portraits/Lissandra.jpg"
+  },
+  {
+    "id": "Locke",
+    "name": "Locke",
+    "title": "the Ashen Exorcist",
+    "tags": [
+      "Assassin",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Locke.png",
+    "portrait": "/assets/champions/portraits/Locke.jpg"
+  },
+  {
+    "id": "Lucian",
+    "name": "Lucian",
+    "title": "the Purifier",
+    "tags": [
+      "Marksman",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Lucian.png",
+    "portrait": "/assets/champions/portraits/Lucian.jpg"
+  },
+  {
+    "id": "Lulu",
+    "name": "Lulu",
+    "title": "the Fae Sorceress",
+    "tags": [
+      "Support",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Lulu.png",
+    "portrait": "/assets/champions/portraits/Lulu.jpg"
+  },
+  {
+    "id": "Lux",
+    "name": "Lux",
+    "title": "the Lady of Luminosity",
+    "tags": [
+      "Mage",
+      "Support"
+    ],
+    "icon": "/assets/champions/icons/Lux.png",
+    "portrait": "/assets/champions/portraits/Lux.jpg"
+  },
+  {
+    "id": "Malphite",
+    "name": "Malphite",
+    "title": "Shard of the Monolith",
+    "tags": [
+      "Tank",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Malphite.png",
+    "portrait": "/assets/champions/portraits/Malphite.jpg"
+  },
+  {
+    "id": "Malzahar",
+    "name": "Malzahar",
+    "title": "the Prophet of the Void",
+    "tags": [
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Malzahar.png",
+    "portrait": "/assets/champions/portraits/Malzahar.jpg"
+  },
+  {
+    "id": "Maokai",
+    "name": "Maokai",
+    "title": "the Twisted Treant",
+    "tags": [
+      "Tank",
+      "Support"
+    ],
+    "icon": "/assets/champions/icons/Maokai.png",
+    "portrait": "/assets/champions/portraits/Maokai.jpg"
+  },
+  {
+    "id": "MasterYi",
+    "name": "Master Yi",
+    "title": "the Wuju Bladesman",
+    "tags": [
+      "Fighter",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/MasterYi.png",
+    "portrait": "/assets/champions/portraits/MasterYi.jpg"
+  },
+  {
+    "id": "Mel",
+    "name": "Mel",
+    "title": "the Soul's Reflection",
+    "tags": [
+      "Mage",
+      "Support"
+    ],
+    "icon": "/assets/champions/icons/Mel.png",
+    "portrait": "/assets/champions/portraits/Mel.jpg"
+  },
+  {
+    "id": "Milio",
+    "name": "Milio",
+    "title": "The Gentle Flame",
+    "tags": [
+      "Support",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Milio.png",
+    "portrait": "/assets/champions/portraits/Milio.jpg"
+  },
+  {
+    "id": "MissFortune",
+    "name": "Miss Fortune",
+    "title": "the Bounty Hunter",
+    "tags": [
+      "Marksman",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/MissFortune.png",
+    "portrait": "/assets/champions/portraits/MissFortune.jpg"
+  },
+  {
+    "id": "MonkeyKing",
+    "name": "Wukong",
+    "title": "the Monkey King",
+    "tags": [
+      "Fighter",
+      "Tank"
+    ],
+    "icon": "/assets/champions/icons/MonkeyKing.png",
+    "portrait": "/assets/champions/portraits/MonkeyKing.jpg"
+  },
+  {
+    "id": "Mordekaiser",
+    "name": "Mordekaiser",
+    "title": "the Iron Revenant",
+    "tags": [
+      "Fighter",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Mordekaiser.png",
+    "portrait": "/assets/champions/portraits/Mordekaiser.jpg"
+  },
+  {
+    "id": "Morgana",
+    "name": "Morgana",
+    "title": "the Fallen",
+    "tags": [
+      "Support",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Morgana.png",
+    "portrait": "/assets/champions/portraits/Morgana.jpg"
+  },
+  {
+    "id": "Naafiri",
+    "name": "Naafiri",
+    "title": "the Hound of a Hundred Bites",
+    "tags": [
+      "Assassin",
+      "Fighter"
+    ],
+    "icon": "/assets/champions/icons/Naafiri.png",
+    "portrait": "/assets/champions/portraits/Naafiri.jpg"
+  },
+  {
+    "id": "Nami",
+    "name": "Nami",
+    "title": "the Tidecaller",
+    "tags": [
+      "Support",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Nami.png",
+    "portrait": "/assets/champions/portraits/Nami.jpg"
+  },
+  {
+    "id": "Nasus",
+    "name": "Nasus",
+    "title": "the Curator of the Sands",
+    "tags": [
+      "Fighter",
+      "Tank"
+    ],
+    "icon": "/assets/champions/icons/Nasus.png",
+    "portrait": "/assets/champions/portraits/Nasus.jpg"
+  },
+  {
+    "id": "Nautilus",
+    "name": "Nautilus",
+    "title": "the Titan of the Depths",
+    "tags": [
+      "Tank",
+      "Support"
+    ],
+    "icon": "/assets/champions/icons/Nautilus.png",
+    "portrait": "/assets/champions/portraits/Nautilus.jpg"
+  },
+  {
+    "id": "Neeko",
+    "name": "Neeko",
+    "title": "the Curious Chameleon",
+    "tags": [
+      "Mage",
+      "Support"
+    ],
+    "icon": "/assets/champions/icons/Neeko.png",
+    "portrait": "/assets/champions/portraits/Neeko.jpg"
+  },
+  {
+    "id": "Nidalee",
+    "name": "Nidalee",
+    "title": "the Bestial Huntress",
+    "tags": [
+      "Assassin",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Nidalee.png",
+    "portrait": "/assets/champions/portraits/Nidalee.jpg"
+  },
+  {
+    "id": "Nilah",
+    "name": "Nilah",
+    "title": "the Joy Unbound",
+    "tags": [
+      "Fighter",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Nilah.png",
+    "portrait": "/assets/champions/portraits/Nilah.jpg"
+  },
+  {
+    "id": "Nocturne",
+    "name": "Nocturne",
+    "title": "the Eternal Nightmare",
+    "tags": [
+      "Fighter",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Nocturne.png",
+    "portrait": "/assets/champions/portraits/Nocturne.jpg"
+  },
+  {
+    "id": "Nunu",
+    "name": "Nunu & Willump",
+    "title": "the Boy and His Yeti",
+    "tags": [
+      "Tank",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Nunu.png",
+    "portrait": "/assets/champions/portraits/Nunu.jpg"
+  },
+  {
+    "id": "Olaf",
+    "name": "Olaf",
+    "title": "the Berserker",
+    "tags": [
+      "Fighter",
+      "Tank"
+    ],
+    "icon": "/assets/champions/icons/Olaf.png",
+    "portrait": "/assets/champions/portraits/Olaf.jpg"
+  },
+  {
+    "id": "Orianna",
+    "name": "Orianna",
+    "title": "the Lady of Clockwork",
+    "tags": [
+      "Mage",
+      "Support"
+    ],
+    "icon": "/assets/champions/icons/Orianna.png",
+    "portrait": "/assets/champions/portraits/Orianna.jpg"
+  },
+  {
+    "id": "Ornn",
+    "name": "Ornn",
+    "title": "The Fire below the Mountain",
+    "tags": [
+      "Tank"
+    ],
+    "icon": "/assets/champions/icons/Ornn.png",
+    "portrait": "/assets/champions/portraits/Ornn.jpg"
+  },
+  {
+    "id": "Pantheon",
+    "name": "Pantheon",
+    "title": "the Unbreakable Spear",
+    "tags": [
+      "Fighter",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Pantheon.png",
+    "portrait": "/assets/champions/portraits/Pantheon.jpg"
+  },
+  {
+    "id": "Poppy",
+    "name": "Poppy",
+    "title": "Keeper of the Hammer",
+    "tags": [
+      "Tank",
+      "Fighter"
+    ],
+    "icon": "/assets/champions/icons/Poppy.png",
+    "portrait": "/assets/champions/portraits/Poppy.jpg"
+  },
+  {
+    "id": "Pyke",
+    "name": "Pyke",
+    "title": "the Bloodharbor Ripper",
+    "tags": [
+      "Support",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Pyke.png",
+    "portrait": "/assets/champions/portraits/Pyke.jpg"
+  },
+  {
+    "id": "Qiyana",
+    "name": "Qiyana",
+    "title": "Empress of the Elements",
+    "tags": [
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Qiyana.png",
+    "portrait": "/assets/champions/portraits/Qiyana.jpg"
+  },
+  {
+    "id": "Quinn",
+    "name": "Quinn",
+    "title": "Demacia's Wings",
+    "tags": [
+      "Marksman",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Quinn.png",
+    "portrait": "/assets/champions/portraits/Quinn.jpg"
+  },
+  {
+    "id": "Rakan",
+    "name": "Rakan",
+    "title": "The Charmer",
+    "tags": [
+      "Support"
+    ],
+    "icon": "/assets/champions/icons/Rakan.png",
+    "portrait": "/assets/champions/portraits/Rakan.jpg"
+  },
+  {
+    "id": "Rammus",
+    "name": "Rammus",
+    "title": "the Armordillo",
+    "tags": [
+      "Tank"
+    ],
+    "icon": "/assets/champions/icons/Rammus.png",
+    "portrait": "/assets/champions/portraits/Rammus.jpg"
+  },
+  {
+    "id": "RekSai",
+    "name": "Rek'Sai",
+    "title": "the Void Burrower",
+    "tags": [
+      "Fighter",
+      "Tank"
+    ],
+    "icon": "/assets/champions/icons/RekSai.png",
+    "portrait": "/assets/champions/portraits/RekSai.jpg"
+  },
+  {
+    "id": "Rell",
+    "name": "Rell",
+    "title": "the Iron Maiden",
+    "tags": [
+      "Tank",
+      "Support"
+    ],
+    "icon": "/assets/champions/icons/Rell.png",
+    "portrait": "/assets/champions/portraits/Rell.jpg"
+  },
+  {
+    "id": "Renata",
+    "name": "Renata Glasc",
+    "title": "the Chem-Baroness",
+    "tags": [
+      "Support",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Renata.png",
+    "portrait": "/assets/champions/portraits/Renata.jpg"
+  },
+  {
+    "id": "Renekton",
+    "name": "Renekton",
+    "title": "the Butcher of the Sands",
+    "tags": [
+      "Fighter",
+      "Tank"
+    ],
+    "icon": "/assets/champions/icons/Renekton.png",
+    "portrait": "/assets/champions/portraits/Renekton.jpg"
+  },
+  {
+    "id": "Rengar",
+    "name": "Rengar",
+    "title": "the Pridestalker",
+    "tags": [
+      "Assassin",
+      "Fighter"
+    ],
+    "icon": "/assets/champions/icons/Rengar.png",
+    "portrait": "/assets/champions/portraits/Rengar.jpg"
+  },
+  {
+    "id": "Riven",
+    "name": "Riven",
+    "title": "the Exile",
+    "tags": [
+      "Fighter",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Riven.png",
+    "portrait": "/assets/champions/portraits/Riven.jpg"
+  },
+  {
+    "id": "Rumble",
+    "name": "Rumble",
+    "title": "the Mechanized Menace",
+    "tags": [
+      "Fighter",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Rumble.png",
+    "portrait": "/assets/champions/portraits/Rumble.jpg"
+  },
+  {
+    "id": "Ryze",
+    "name": "Ryze",
+    "title": "the Rune Mage",
+    "tags": [
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Ryze.png",
+    "portrait": "/assets/champions/portraits/Ryze.jpg"
+  },
+  {
+    "id": "Samira",
+    "name": "Samira",
+    "title": "the Desert Rose",
+    "tags": [
+      "Marksman",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Samira.png",
+    "portrait": "/assets/champions/portraits/Samira.jpg"
+  },
+  {
+    "id": "Sejuani",
+    "name": "Sejuani",
+    "title": "Fury of the North",
+    "tags": [
+      "Tank"
+    ],
+    "icon": "/assets/champions/icons/Sejuani.png",
+    "portrait": "/assets/champions/portraits/Sejuani.jpg"
+  },
+  {
+    "id": "Senna",
+    "name": "Senna",
+    "title": "the Redeemer",
+    "tags": [
+      "Support",
+      "Marksman"
+    ],
+    "icon": "/assets/champions/icons/Senna.png",
+    "portrait": "/assets/champions/portraits/Senna.jpg"
+  },
+  {
+    "id": "Seraphine",
+    "name": "Seraphine",
+    "title": "the Starry-Eyed Songstress",
+    "tags": [
+      "Support",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Seraphine.png",
+    "portrait": "/assets/champions/portraits/Seraphine.jpg"
+  },
+  {
+    "id": "Sett",
+    "name": "Sett",
+    "title": "the Boss",
+    "tags": [
+      "Fighter",
+      "Tank"
+    ],
+    "icon": "/assets/champions/icons/Sett.png",
+    "portrait": "/assets/champions/portraits/Sett.jpg"
+  },
+  {
+    "id": "Shaco",
+    "name": "Shaco",
+    "title": "the Demon Jester",
+    "tags": [
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Shaco.png",
+    "portrait": "/assets/champions/portraits/Shaco.jpg"
+  },
+  {
+    "id": "Shen",
+    "name": "Shen",
+    "title": "the Eye of Twilight",
+    "tags": [
+      "Tank"
+    ],
+    "icon": "/assets/champions/icons/Shen.png",
+    "portrait": "/assets/champions/portraits/Shen.jpg"
+  },
+  {
+    "id": "Shyvana",
+    "name": "Shyvana",
+    "title": "the Half-Dragon",
+    "tags": [
+      "Fighter",
+      "Tank"
+    ],
+    "icon": "/assets/champions/icons/Shyvana.png",
+    "portrait": "/assets/champions/portraits/Shyvana.jpg"
+  },
+  {
+    "id": "Singed",
+    "name": "Singed",
+    "title": "the Mad Chemist",
+    "tags": [
+      "Tank",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Singed.png",
+    "portrait": "/assets/champions/portraits/Singed.jpg"
+  },
+  {
+    "id": "Sion",
+    "name": "Sion",
+    "title": "The Undead Juggernaut",
+    "tags": [
+      "Tank",
+      "Fighter"
+    ],
+    "icon": "/assets/champions/icons/Sion.png",
+    "portrait": "/assets/champions/portraits/Sion.jpg"
+  },
+  {
+    "id": "Sivir",
+    "name": "Sivir",
+    "title": "the Battle Mistress",
+    "tags": [
+      "Marksman"
+    ],
+    "icon": "/assets/champions/icons/Sivir.png",
+    "portrait": "/assets/champions/portraits/Sivir.jpg"
+  },
+  {
+    "id": "Skarner",
+    "name": "Skarner",
+    "title": "the Primordial Sovereign",
+    "tags": [
+      "Tank",
+      "Fighter"
+    ],
+    "icon": "/assets/champions/icons/Skarner.png",
+    "portrait": "/assets/champions/portraits/Skarner.jpg"
+  },
+  {
+    "id": "Smolder",
+    "name": "Smolder",
+    "title": "the Fiery Fledgling",
+    "tags": [
+      "Marksman",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Smolder.png",
+    "portrait": "/assets/champions/portraits/Smolder.jpg"
+  },
+  {
+    "id": "Sona",
+    "name": "Sona",
+    "title": "Maven of the Strings",
+    "tags": [
+      "Support",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Sona.png",
+    "portrait": "/assets/champions/portraits/Sona.jpg"
+  },
+  {
+    "id": "Soraka",
+    "name": "Soraka",
+    "title": "the Starchild",
+    "tags": [
+      "Support",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Soraka.png",
+    "portrait": "/assets/champions/portraits/Soraka.jpg"
+  },
+  {
+    "id": "Swain",
+    "name": "Swain",
+    "title": "the Noxian Grand General",
+    "tags": [
+      "Mage",
+      "Support"
+    ],
+    "icon": "/assets/champions/icons/Swain.png",
+    "portrait": "/assets/champions/portraits/Swain.jpg"
+  },
+  {
+    "id": "Sylas",
+    "name": "Sylas",
+    "title": "the Unshackled",
+    "tags": [
+      "Mage",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Sylas.png",
+    "portrait": "/assets/champions/portraits/Sylas.jpg"
+  },
+  {
+    "id": "Syndra",
+    "name": "Syndra",
+    "title": "the Dark Sovereign",
+    "tags": [
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Syndra.png",
+    "portrait": "/assets/champions/portraits/Syndra.jpg"
+  },
+  {
+    "id": "TahmKench",
+    "name": "Tahm Kench",
+    "title": "The River King",
+    "tags": [
+      "Tank",
+      "Support"
+    ],
+    "icon": "/assets/champions/icons/TahmKench.png",
+    "portrait": "/assets/champions/portraits/TahmKench.jpg"
+  },
+  {
+    "id": "Taliyah",
+    "name": "Taliyah",
+    "title": "the Stoneweaver",
+    "tags": [
+      "Mage",
+      "Support"
+    ],
+    "icon": "/assets/champions/icons/Taliyah.png",
+    "portrait": "/assets/champions/portraits/Taliyah.jpg"
+  },
+  {
+    "id": "Talon",
+    "name": "Talon",
+    "title": "the Blade's Shadow",
+    "tags": [
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Talon.png",
+    "portrait": "/assets/champions/portraits/Talon.jpg"
+  },
+  {
+    "id": "Taric",
+    "name": "Taric",
+    "title": "the Shield of Valoran",
+    "tags": [
+      "Support",
+      "Tank"
+    ],
+    "icon": "/assets/champions/icons/Taric.png",
+    "portrait": "/assets/champions/portraits/Taric.jpg"
+  },
+  {
+    "id": "Teemo",
+    "name": "Teemo",
+    "title": "the Swift Scout",
+    "tags": [
+      "Marksman",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Teemo.png",
+    "portrait": "/assets/champions/portraits/Teemo.jpg"
+  },
+  {
+    "id": "Thresh",
+    "name": "Thresh",
+    "title": "the Chain Warden",
+    "tags": [
+      "Support",
+      "Tank"
+    ],
+    "icon": "/assets/champions/icons/Thresh.png",
+    "portrait": "/assets/champions/portraits/Thresh.jpg"
+  },
+  {
+    "id": "Tristana",
+    "name": "Tristana",
+    "title": "the Yordle Gunner",
+    "tags": [
+      "Marksman",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Tristana.png",
+    "portrait": "/assets/champions/portraits/Tristana.jpg"
+  },
+  {
+    "id": "Trundle",
+    "name": "Trundle",
+    "title": "the Troll King",
+    "tags": [
+      "Fighter",
+      "Tank"
+    ],
+    "icon": "/assets/champions/icons/Trundle.png",
+    "portrait": "/assets/champions/portraits/Trundle.jpg"
+  },
+  {
+    "id": "Tryndamere",
+    "name": "Tryndamere",
+    "title": "the Barbarian King",
+    "tags": [
+      "Fighter",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Tryndamere.png",
+    "portrait": "/assets/champions/portraits/Tryndamere.jpg"
+  },
+  {
+    "id": "TwistedFate",
+    "name": "Twisted Fate",
+    "title": "the Card Master",
+    "tags": [
+      "Mage",
+      "Marksman"
+    ],
+    "icon": "/assets/champions/icons/TwistedFate.png",
+    "portrait": "/assets/champions/portraits/TwistedFate.jpg"
+  },
+  {
+    "id": "Twitch",
+    "name": "Twitch",
+    "title": "the Plague Rat",
+    "tags": [
+      "Marksman",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Twitch.png",
+    "portrait": "/assets/champions/portraits/Twitch.jpg"
+  },
+  {
+    "id": "Udyr",
+    "name": "Udyr",
+    "title": "the Spirit Walker",
+    "tags": [
+      "Fighter",
+      "Tank"
+    ],
+    "icon": "/assets/champions/icons/Udyr.png",
+    "portrait": "/assets/champions/portraits/Udyr.jpg"
+  },
+  {
+    "id": "Urgot",
+    "name": "Urgot",
+    "title": "the Dreadnought",
+    "tags": [
+      "Fighter",
+      "Tank"
+    ],
+    "icon": "/assets/champions/icons/Urgot.png",
+    "portrait": "/assets/champions/portraits/Urgot.jpg"
+  },
+  {
+    "id": "Varus",
+    "name": "Varus",
+    "title": "the Arrow of Retribution",
+    "tags": [
+      "Marksman",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Varus.png",
+    "portrait": "/assets/champions/portraits/Varus.jpg"
+  },
+  {
+    "id": "Vayne",
+    "name": "Vayne",
+    "title": "the Night Hunter",
+    "tags": [
+      "Marksman",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Vayne.png",
+    "portrait": "/assets/champions/portraits/Vayne.jpg"
+  },
+  {
+    "id": "Veigar",
+    "name": "Veigar",
+    "title": "the Tiny Master of Evil",
+    "tags": [
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Veigar.png",
+    "portrait": "/assets/champions/portraits/Veigar.jpg"
+  },
+  {
+    "id": "Velkoz",
+    "name": "Vel'Koz",
+    "title": "the Eye of the Void",
+    "tags": [
+      "Mage",
+      "Support"
+    ],
+    "icon": "/assets/champions/icons/Velkoz.png",
+    "portrait": "/assets/champions/portraits/Velkoz.jpg"
+  },
+  {
+    "id": "Vex",
+    "name": "Vex",
+    "title": "the Gloomist",
+    "tags": [
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Vex.png",
+    "portrait": "/assets/champions/portraits/Vex.jpg"
+  },
+  {
+    "id": "Vi",
+    "name": "Vi",
+    "title": "the Piltover Enforcer",
+    "tags": [
+      "Fighter",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Vi.png",
+    "portrait": "/assets/champions/portraits/Vi.jpg"
+  },
+  {
+    "id": "Viego",
+    "name": "Viego",
+    "title": "The Ruined King",
+    "tags": [
+      "Fighter",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Viego.png",
+    "portrait": "/assets/champions/portraits/Viego.jpg"
+  },
+  {
+    "id": "Viktor",
+    "name": "Viktor",
+    "title": "the Herald of the Arcane",
+    "tags": [
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Viktor.png",
+    "portrait": "/assets/champions/portraits/Viktor.jpg"
+  },
+  {
+    "id": "Vladimir",
+    "name": "Vladimir",
+    "title": "the Crimson Reaper",
+    "tags": [
+      "Mage",
+      "Fighter"
+    ],
+    "icon": "/assets/champions/icons/Vladimir.png",
+    "portrait": "/assets/champions/portraits/Vladimir.jpg"
+  },
+  {
+    "id": "Volibear",
+    "name": "Volibear",
+    "title": "the Relentless Storm",
+    "tags": [
+      "Fighter",
+      "Tank"
+    ],
+    "icon": "/assets/champions/icons/Volibear.png",
+    "portrait": "/assets/champions/portraits/Volibear.jpg"
+  },
+  {
+    "id": "Warwick",
+    "name": "Warwick",
+    "title": "the Uncaged Wrath of Zaun",
+    "tags": [
+      "Fighter",
+      "Tank"
+    ],
+    "icon": "/assets/champions/icons/Warwick.png",
+    "portrait": "/assets/champions/portraits/Warwick.jpg"
+  },
+  {
+    "id": "Xayah",
+    "name": "Xayah",
+    "title": "the Rebel",
+    "tags": [
+      "Marksman"
+    ],
+    "icon": "/assets/champions/icons/Xayah.png",
+    "portrait": "/assets/champions/portraits/Xayah.jpg"
+  },
+  {
+    "id": "Xerath",
+    "name": "Xerath",
+    "title": "the Magus Ascendant",
+    "tags": [
+      "Mage",
+      "Support"
+    ],
+    "icon": "/assets/champions/icons/Xerath.png",
+    "portrait": "/assets/champions/portraits/Xerath.jpg"
+  },
+  {
+    "id": "XinZhao",
+    "name": "Xin Zhao",
+    "title": "the Seneschal of Demacia",
+    "tags": [
+      "Fighter",
+      "Tank"
+    ],
+    "icon": "/assets/champions/icons/XinZhao.png",
+    "portrait": "/assets/champions/portraits/XinZhao.jpg"
+  },
+  {
+    "id": "Yasuo",
+    "name": "Yasuo",
+    "title": "the Unforgiven",
+    "tags": [
+      "Fighter",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Yasuo.png",
+    "portrait": "/assets/champions/portraits/Yasuo.jpg"
+  },
+  {
+    "id": "Yone",
+    "name": "Yone",
+    "title": "the Unforgotten",
+    "tags": [
+      "Fighter",
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Yone.png",
+    "portrait": "/assets/champions/portraits/Yone.jpg"
+  },
+  {
+    "id": "Yorick",
+    "name": "Yorick",
+    "title": "Shepherd of Souls",
+    "tags": [
+      "Fighter",
+      "Tank"
+    ],
+    "icon": "/assets/champions/icons/Yorick.png",
+    "portrait": "/assets/champions/portraits/Yorick.jpg"
+  },
+  {
+    "id": "Yunara",
+    "name": "Yunara",
+    "title": "the Unbroken Faith",
+    "tags": [
+      "Marksman"
+    ],
+    "icon": "/assets/champions/icons/Yunara.png",
+    "portrait": "/assets/champions/portraits/Yunara.jpg"
+  },
+  {
+    "id": "Yuumi",
+    "name": "Yuumi",
+    "title": "the Magical Cat",
+    "tags": [
+      "Support",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Yuumi.png",
+    "portrait": "/assets/champions/portraits/Yuumi.jpg"
+  },
+  {
+    "id": "Zaahen",
+    "name": "Zaahen",
+    "title": "The Unsundered",
+    "tags": [
+      "Fighter"
+    ],
+    "icon": "/assets/champions/icons/Zaahen.png",
+    "portrait": "/assets/champions/portraits/Zaahen.jpg"
+  },
+  {
+    "id": "Zac",
+    "name": "Zac",
+    "title": "the Secret Weapon",
+    "tags": [
+      "Tank",
+      "Fighter"
+    ],
+    "icon": "/assets/champions/icons/Zac.png",
+    "portrait": "/assets/champions/portraits/Zac.jpg"
+  },
+  {
+    "id": "Zed",
+    "name": "Zed",
+    "title": "the Master of Shadows",
+    "tags": [
+      "Assassin"
+    ],
+    "icon": "/assets/champions/icons/Zed.png",
+    "portrait": "/assets/champions/portraits/Zed.jpg"
+  },
+  {
+    "id": "Zeri",
+    "name": "Zeri",
+    "title": "The Spark of Zaun",
+    "tags": [
+      "Marksman"
+    ],
+    "icon": "/assets/champions/icons/Zeri.png",
+    "portrait": "/assets/champions/portraits/Zeri.jpg"
+  },
+  {
+    "id": "Ziggs",
+    "name": "Ziggs",
+    "title": "the Hexplosives Expert",
+    "tags": [
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Ziggs.png",
+    "portrait": "/assets/champions/portraits/Ziggs.jpg"
+  },
+  {
+    "id": "Zilean",
+    "name": "Zilean",
+    "title": "the Chronokeeper",
+    "tags": [
+      "Support",
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Zilean.png",
+    "portrait": "/assets/champions/portraits/Zilean.jpg"
+  },
+  {
+    "id": "Zoe",
+    "name": "Zoe",
+    "title": "the Aspect of Twilight",
+    "tags": [
+      "Mage"
+    ],
+    "icon": "/assets/champions/icons/Zoe.png",
+    "portrait": "/assets/champions/portraits/Zoe.jpg"
+  },
+  {
+    "id": "Zyra",
+    "name": "Zyra",
+    "title": "Rise of the Thorns",
+    "tags": [
+      "Mage",
+      "Support"
+    ],
+    "icon": "/assets/champions/icons/Zyra.png",
+    "portrait": "/assets/champions/portraits/Zyra.jpg"
+  }
+]

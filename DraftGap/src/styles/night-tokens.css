@@ -1,0 +1,24 @@
+/* Reference tokens only. Use one palette at a time; these are not component styles. */
+:root {
+  color-scheme: dark;
+  --image-header: url('/assets/themes/night/header.png');
+  --color-background: #0B1222;
+  --color-panel: #131E33;
+  --color-surface: #1B2942;
+  --color-border: #30415F;
+  --color-primary: #3155C6;
+  --color-primary-hover: #24419E;
+  --color-link: #8CAEFF;
+  --color-gold: #D4AF60;
+  --color-gold-surface: #332D20;
+  --color-heading: #F5F0E6;
+  --color-text: #D5DEED;
+  --color-text-muted: #A9B8D1;
+  --color-on-primary: #F5F0E6;
+  --color-gold-text: #D4AF60;
+  --font-ui: 'DM Sans', system-ui, sans-serif;
+  --font-display: 'Lora', Georgia, serif;
+  --radius-card: 12px;
+  --radius-panel: 20px;
+  --radius-pill: 999px;
+}

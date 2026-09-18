@@ -1,13 +1,30 @@
-.nav{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 10px;
+* {
+  box-sizing: border-box;
 }
 
-.nav > li {
+.nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.brand-group{
+  display: flex;
+  justify-content: space-between;
+  gap: 4rem;
+}
+
+.brand-group img {
+  width: 40px;
+}
+
+.brand-group ul {
+  display: flex;
+  margin: 0;
   list-style: none;
 }
+
+
 .champion-card {
   box-sizing: border-box;
   border: 2px solid black;

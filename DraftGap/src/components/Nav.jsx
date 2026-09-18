@@ -1,8 +1,15 @@
-const Nav = ({links}) => {
+const Nav = ({links,pointer,image}) => {
     return (
-        <ul className= "nav">
-            {links.map((links) => <li>{links}</li>)}
+        
+        <nav className= "nav">
+        <div className="brand-group">
+            <img src={image} alt="" />
+            <span>Draft Gap</span>
+        </div>
+         <ul>
+                {links.map((links) => <li><a href={pointer}>{links}</a></li>)}
         </ul>
+        </nav>
     )
 };
 
