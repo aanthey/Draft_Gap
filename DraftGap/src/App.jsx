@@ -13,7 +13,7 @@ function App() {
         
          <h1>Draft Gap</h1>
        
-        <ChampionCard name = "Ahri"/>
+        <ChampionCard name = "Mordekaiser" image = "/assets/champions/icons/Mordekaiser.png"/>
 
       </main>
       
