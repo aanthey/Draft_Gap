@@ -1,6 +1,6 @@
 const Nav = ({links}) => {
     return (
-        <ul>
+        <ul className= "nav">
             {links.map((links) => <li>{links}</li>)}
         </ul>
     )

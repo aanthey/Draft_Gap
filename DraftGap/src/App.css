@@ -1,1 +1,15 @@
+.nav{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
 
+.nav > li {
+  list-style: none;
+}
+.champion-card {
+  box-sizing: border-box;
+  border: 2px solid black;
+  border-radius: 15px;
+}
