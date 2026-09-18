@@ -61,3 +61,8 @@ The planned Netlify settings are:
 ## Champion Data and Images
 
 Champion data and images come from Riot Games' public Data Dragon service. These public assets do not require an API key.
+
+## License
+
+Original project code is licensed under the [MIT License](LICENSE).
+Third-party assets, including Riot Games' champion data and images and bundled fonts, remain subject to their respective licenses and terms.
