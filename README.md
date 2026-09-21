@@ -1,5 +1,5 @@
 # Draft Gap
-<img width="150" height="150" alt="draft-gap-mark" src="https://github.com/user-attachments/assets/281d4c60-e91f-4edf-b5ef-694b400efb34" /></svg> draft-gap-mark.svg…]()
+<img width="150" height="150" alt="draft-gap-mark" src="https://github.com/user-attachments/assets/281d4c60-e91f-4edf-b5ef-694b400efb34" />
 
 A League of Legends team composition builder built with React, Vite, JavaScript, and plain CSS.
 
