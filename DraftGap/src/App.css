@@ -3,6 +3,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-bottom: 2rem;
 }
 .nav strong {
   font-size: 24px;
@@ -41,17 +42,29 @@
 .champion-card {
   box-sizing: border-box;
   border: 2px solid var(--color-border);
-  border-radius: 15px;
-  background-color: var(--color-panel);
+  border-radius: 20px;
+  background-color: var(--color-background);
   text-align: center;
+  margin: 1rem;
+  max-width: 250px;
 }
 
 .champion-card img {
   margin: 1rem;
+  border: 1px solid var(--color-border);
+  border-radius: 20px;
 }
 
 .champion-grid {
   display: grid;
   grid-template-columns: repeat(6,minmax(150px, 1fr));
   gap: 1rem;
+}
+
+#champions-container {
+  border: 3px solid var(--color-border);
+  border-radius: 20px;
+  margin: 1rem;
+  background-color: var(--color-panel);
+  box-sizing: border-box;
 }

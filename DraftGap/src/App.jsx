@@ -15,10 +15,13 @@ function App() {
         <p>Choose your champions. Pick a team that <span>fits</span>.</p>
     </section>
     <main>
-      <div className='champion-grid'> 
+      <div id='champions-container'>
+        <h2>Champions</h2>
+      <div className='champion-grid'>
         <ChampionCard name = "Mordekaiser" image = "/assets/champions/icons/Mordekaiser.png"/>
         <ChampionCard name = "Kalista" image = "/assets/champions/icons/Kalista.png"/>
         <ChampionCard name = "Thresh" image = "/assets/champions/icons/Thresh.png"/>
+      </div>
       </div>
     </main>
     <footer>
