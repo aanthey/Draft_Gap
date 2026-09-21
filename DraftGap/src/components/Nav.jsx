@@ -4,7 +4,7 @@ const Nav = ({links,pointer,image}) => {
         <nav className= "nav">
         <div className="brand-group">
             <img src={image} alt="" />
-            <span>Draft Gap</span>
+            <span><strong>Draft Gap</strong></span>
         </div>
          <ul>
                 {links.map((links) => <li><a href={pointer}>{links}</a></li>)}

@@ -1,32 +1,57 @@
-* {
-  box-sizing: border-box;
-}
 
 .nav{
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-
+.nav strong {
+  font-size: 24px;
+  color: var(--color-heading);
+}
 .brand-group{
   display: flex;
   justify-content: space-between;
-  gap: 4rem;
+  align-items: center;
+  gap: .5rem;
 }
 
 .brand-group img {
   width: 40px;
 }
 
-.brand-group ul {
+.nav ul {
   display: flex;
   margin: 0;
   list-style: none;
+  gap: .5rem;
 }
 
+#hero {
+  background-image: var(--image-header);
+  min-height: 200px;
+  background-size: cover;
+  background-position: right center;
+  background-repeat: no-repeat;
+}
+
+#hero span {
+  color: var(--color-gold);
+}
 
 .champion-card {
   box-sizing: border-box;
-  border: 2px solid black;
+  border: 2px solid var(--color-border);
   border-radius: 15px;
+  background-color: var(--color-panel);
+  text-align: center;
+}
+
+.champion-card img {
+  margin: 1rem;
+}
+
+.champion-grid {
+  display: grid;
+  grid-template-columns: repeat(6,minmax(150px, 1fr));
+  gap: 1rem;
 }

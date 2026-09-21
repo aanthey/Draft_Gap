@@ -8,18 +8,22 @@ function App() {
     <>
     <header>
       <Nav links={[ "Teambuilder", "About"]} image= "/assets/themes/light/brand/draft-gap-mark.svg" alt = "image of site logo"/>
-      </header>
-      <main>
-        <section id='Hero'>
-          <h1>Building your team made simple.</h1>
-        </section>
-       
+    </header>
+    <section id='hero'>
+        <p>Plan/Pick/Play</p>
+        <h1>Building your <span>dream team</span> made simple.</h1>
+        <p>Choose your champions. Pick a team that <span>fits</span>.</p>
+    </section>
+    <main>
+      <div className='champion-grid'> 
         <ChampionCard name = "Mordekaiser" image = "/assets/champions/icons/Mordekaiser.png"/>
-
-      </main>
-      <footer>
-        <p>Draft Gap is not endorsed by Riot Games and does not reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games and all associated properties are trademarks or registered trademarks of Riot Games, Inc.</p>
-      </footer>
+        <ChampionCard name = "Kalista" image = "/assets/champions/icons/Kalista.png"/>
+        <ChampionCard name = "Thresh" image = "/assets/champions/icons/Thresh.png"/>
+      </div>
+    </main>
+    <footer>
+      <p>Draft Gap is not endorsed by Riot Games and does not reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games and all associated properties are trademarks or registered trademarks of Riot Games, Inc.</p>
+    </footer>
     </>
   )
 }
