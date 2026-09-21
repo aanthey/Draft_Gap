@@ -1,4 +1,6 @@
 # Draft Gap
+<img width="150" height="150" alt="draft-gap-mark" src="https://github.com/user-attachments/assets/281d4c60-e91f-4edf-b5ef-694b400efb34" /># Draft Gap
+![Uploading<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><path d="M32 3 45 25 32 58 19 25Z" fill="#C6A04B"/><path d="m8 21 12 9 9 28-17-13Z" fill="#A98035"/><path d="m56 21-12 9-9 28 17-13Z" fill="#C6A04B"/><path d="M32 8v44M22 25h20" stroke="#FFF8EE" stroke-width="1.5"/></svg> draft-gap-mark.svg…]()
 
 A League of Legends team composition builder built with React, Vite, JavaScript, and plain CSS.
 
