@@ -8,9 +8,15 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding-right: 1rem;
+  padding-inline: 1rem;
   background-color: var(--color-background);
   
+}
+
+.nav a.active {
+  font-weight: bold;
+  color: var(--color-primary);
+  border-bottom-color: var(--color-primary);
 }
 
 .nav strong {
@@ -103,6 +109,15 @@ header {
   margin: .5rem;
 }
 
+.filter-button ul {
+  display: flex;
+  gap: 1em;
+}
+
+.filter-button li {
+  list-style: none;
+}
+
 .champion-type-badge {
   font-size: .8125rem;
   font-weight: 500;
@@ -140,6 +155,10 @@ header {
   display: flex;
   align-items: center;
   gap: .5rem;
+  border: 2px solid var(--color-border);
+  border-radius: var(--radius-card);
+  padding: .25rem;
+  width: 50%;
 }
 
 #search-bar img {

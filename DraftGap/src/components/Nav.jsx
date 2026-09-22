@@ -1,4 +1,4 @@
-const Nav = ({links,pointer,image}) => {
+const Nav = ({links,image}) => {
     return (
         
         <nav className= "nav">
@@ -7,7 +7,11 @@ const Nav = ({links,pointer,image}) => {
             <span><strong>Draft Gap</strong></span>
         </div>
          <ul>
-                {links.map((links) => <li><a href={pointer}>{links}</a></li>)}
+                {links.map((link) => (
+                    <li key={link.href}>
+                        <a className={link.active ? "active" : ""} href={link.href}>{link.label}</a>
+                    </li>
+                ))}
         </ul>
         </nav>
     )
