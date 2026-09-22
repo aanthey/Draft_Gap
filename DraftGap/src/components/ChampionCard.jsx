@@ -1,5 +1,5 @@
 
-function ChampionCard({name,image}) {
+const ChampionCard = ({name,image}) => {
     return (
         <article className="champion-card">
             

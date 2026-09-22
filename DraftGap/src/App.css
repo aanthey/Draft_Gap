@@ -1,12 +1,21 @@
-
+header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  border-bottom: 1px solid var(--color-border);
+}
 .nav{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 2rem;
+  padding-right: 1rem;
+  background-color: var(--color-background);
+  
 }
+
 .nav strong {
   font-size: 24px;
+  font-weight: 700;
   color: var(--color-heading);
 }
 .brand-group{
@@ -24,7 +33,18 @@
   display: flex;
   margin: 0;
   list-style: none;
-  gap: .5rem;
+  gap: 1.5rem;
+  padding: 0;
+}
+
+.nav a {
+  font-weight: 500;
+  font-size: 1rem;
+  text-decoration: none;
+  color: var(--color-text-muted);
+  display: inline-block;
+  padding: 1rem;
+  border-bottom: 3px solid transparent;
 }
 
 #hero {
@@ -33,38 +53,117 @@
   background-size: cover;
   background-position: right center;
   background-repeat: no-repeat;
+  margin: 0;
+  padding: 2rem 1rem;
+}
+
+#plan-text {
+  margin: 0 0 .5rem;
+  padding-inline: 1rem;
+  font-weight: 500;
+  color: var(--color-gold-text);
+  font-size: .75rem;
+  letter-spacing: .2em;
+  text-transform: uppercase;
+}
+
+#tagline {
+  margin: 0 0 1rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1;
 }
 
 #hero span {
   color: var(--color-gold);
 }
 
+#choose-champions-text span {
+  color: var(--color-gold-text);
+}
 .champion-card {
   box-sizing: border-box;
   border: 2px solid var(--color-border);
-  border-radius: 20px;
-  background-color: var(--color-background);
+  border-radius: var(--radius-card);
+  background-color: white;
   text-align: center;
-  margin: 1rem;
-  max-width: 250px;
 }
 
 .champion-card img {
-  margin: 1rem;
-  border: 1px solid var(--color-border);
-  border-radius: 20px;
+  border: 1px solid var(--color-card);
+  border-radius: var(--radius-card);
+  width: 100%;
+  height: auto;
+  display: block;
+  padding: 5px;
+}
+.champion-card h2{
+  font-size: 1rem;
+  font-weight: 600;
+  margin: .5rem;
 }
 
+.champion-type-badge {
+  font-size: .8125rem;
+  font-weight: 500;
+}
 .champion-grid {
   display: grid;
-  grid-template-columns: repeat(6,minmax(150px, 1fr));
+  grid-template-columns: repeat(auto-fill,minmax(150px, 1fr));
   gap: 1rem;
 }
 
 #champions-container {
   border: 3px solid var(--color-border);
-  border-radius: 20px;
+  border-radius: var(--radius-panel);
   margin: 1rem;
   background-color: var(--color-panel);
   box-sizing: border-box;
+  width: 50%;
+  padding: 1rem;
+}
+
+.champions-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
+.champions-header > h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+#search-bar {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+}
+
+#search-bar img {
+  width: 20px;
+  display: block;
+}
+
+#search-bar input {
+  flex: 1;
+  min-width: 0;
+  font: inherit;
+  border: none;
+  background: transparent;
+
+}
+
+footer {
+  font-size: .875rem;
+  color: var(--color-text-muted);
+}
+
+/* Keep the main heading readable on smaller screens. */
+@media (max-width: 600px) {
+  #tagline {
+    font-size: 2rem;
+  }
 }
