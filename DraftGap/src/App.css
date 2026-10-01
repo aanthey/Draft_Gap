@@ -52,7 +52,11 @@ header {
   padding: 1rem;
   border-bottom: 3px solid transparent;
 }
-
+.nav a:hover {
+  border-bottom: 3px solid transparent;
+  color: var(--color-primary);
+  border-bottom-color: var(--color-primary);
+}
 #hero {
   background-image: var(--image-header);
   min-height: 200px;
@@ -111,11 +115,32 @@ header {
 
 .filter-button ul {
   display: flex;
-  gap: 1em;
+  gap: .5rem;
+  padding: 0;
+  flex-wrap: wrap;
+  margin-top: 0;
 }
 
 .filter-button li {
   list-style: none;
+}
+
+.filter-button button {
+  box-sizing: border-box;
+  font-family: var(--font-ui);
+  font-size: .875rem;
+  font-weight: 500;
+  background-color: var(--color-surface);
+  color: var(--color-link);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-pill);
+  padding: .5rem 1.25rem;
+  cursor: pointer;
+}
+
+.filter-button button:hover {
+  background-color: var(--color-primary);
+  color: var(--color-on-primary);
 }
 
 .champion-type-badge {
@@ -132,6 +157,7 @@ header {
   border: 3px solid var(--color-border);
   border-radius: var(--radius-panel);
   margin: 1rem;
+  margin-bottom: 0;
   background-color: var(--color-panel);
   box-sizing: border-box;
   width: 50%;
@@ -180,7 +206,11 @@ footer {
   color: var(--color-text-muted);
 }
 
-/* Keep the main heading readable on smaller screens. */
+#about::hover {
+
+}
+
+/* For Responsive Design will get to it once static site and design is implemented */
 @media (max-width: 600px) {
   #tagline {
     font-size: 2rem;
