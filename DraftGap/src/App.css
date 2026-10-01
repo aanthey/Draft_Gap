@@ -149,8 +149,12 @@ header {
 }
 .champion-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill,minmax(150px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
   gap: 1rem;
+
+  max-height: 60vh;
+  overflow-y: auto;
+  padding-right: 0.5rem;
 }
 
 #champions-container {
