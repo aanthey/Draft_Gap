@@ -1,11 +1,17 @@
-const ChampionFilters = ({filters}) => {
+const ChampionFilters = ({ filters, activeFilter, onFilterChange }) => {
 
     return (
         <div className="filter-button">
-            <ul>
-                {filters.map((filters) => (
-                    <li key={['All','Mage',"Tank","Assassin","Marksman","Support"]}>
-                        <button type="button">{filters}</button>
+            <ul aria-label="Champion classes">
+                {filters.map((filter) => (
+                    <li key={filter}>
+                        <button
+                            type="button"
+                            aria-pressed={activeFilter === filter}
+                            onClick={() => onFilterChange(filter)}
+                        >
+                            {filter}
+                        </button>
                     </li>
                 ))}
                 
