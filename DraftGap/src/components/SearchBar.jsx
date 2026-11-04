@@ -1,10 +1,15 @@
-const SearchBar = () => {
+const SearchBar = ({ value, onSearchChange }) => {
     return (
         <div id="search-bar">
-            <label htmlFor="search-input"><img src="/assets/themes/light/icons/ui/search.svg" alt="search-icon" /></label>
+            <label htmlFor="search-input">
+                <span className="sr-only">Search champions</span>
+                <img src="/assets/themes/light/icons/ui/search.svg" alt="" />
+            </label>
             <input 
             id="search-input"
-            type="text" 
+            type="search"
+            value={value}
+            onChange={(event) => onSearchChange(event.target.value)}
             placeholder="Search for a champion..."
             />
         </div>
