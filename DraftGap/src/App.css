@@ -210,13 +210,76 @@ footer {
   color: var(--color-text-muted);
 }
 
-#about::hover {
-
-}
 
 /* For Responsive Design will get to it once static site and design is implemented */
 @media (max-width: 600px) {
   #tagline {
     font-size: 2rem;
   }
+}
+
+main {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(340px, 1fr);
+  align-items: start;
+  gap: 1.5rem;
+  padding: 1.5rem;
+  max-width: 1440px;
+  margin-inline: auto;
+}
+
+#champions-container,
+#teambuilder-section {
+  width: auto;
+  margin: 0;
+  padding: 1.25rem;
+  border: 2px solid var(--color-border);
+  border-radius: var(--radius-panel);
+  background: var(--color-panel);
+  scroll-margin-top: 90px;
+  min-width: 0;
+}
+
+.builder-header { display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
+.builder-header h2 { margin: .5rem 0; font-size: 1.5rem; }
+.team-count { white-space: nowrap; border-radius: var(--radius-pill); background: var(--color-gold-surface); color: var(--color-gold-text); padding: .25rem .75rem; font-size: .875rem; }
+.builder-help, .pick-instruction, .builder-summary { color: var(--color-text-muted); font-size: .875rem; }
+.builder-help { margin: .25rem 0 1.25rem; }
+.role-slots { display: grid; gap: .75rem; }
+.role-slot { display: flex; align-items: center; border: 2px solid var(--color-border); border-radius: var(--radius-card); background: var(--color-surface); }
+.role-slot.is-active { border-color: var(--color-primary); box-shadow: 0 0 0 1px var(--color-primary); }
+.role-select { display: flex; align-items: center; gap: .875rem; flex: 1; min-width: 0; padding: .875rem; border: 0; border-radius: var(--radius-card); background: transparent; color: inherit; text-align: left; cursor: pointer; font: inherit; }
+.role-icon { width: 24px; height: 24px; }
+.slot-portrait, .empty-portrait { width: 56px; height: 56px; flex-shrink: 0; border-radius: 10px; }
+.empty-portrait { display: grid; place-items: center; border: 1px dashed var(--color-border); color: var(--color-primary); background: var(--color-panel); font-size: 1.75rem; }
+.slot-copy { display: flex; flex-direction: column; min-width: 0; }
+.role-label { color: var(--color-primary); font-size: .75rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; }
+.slot-hint { color: var(--color-text-muted); font-size: .75rem; }
+.remove-champion { margin-right: .75rem; border: 1px solid var(--color-border); border-radius: var(--radius-pill); padding: .4rem .65rem; font: inherit; font-size: .75rem; color: var(--color-text); background: var(--color-surface); cursor: pointer; }
+.remove-champion:hover { background: var(--color-panel); }
+.champion-card { font: inherit; color: inherit; cursor: pointer; padding: 0 0 .75rem; background: var(--color-surface); }
+.champion-card:not(:disabled):hover { border-color: var(--color-primary); }
+.champion-card:disabled { cursor: default; opacity: .55; }
+.champion-name { display: block; font-weight: 600; margin: .5rem; color: var(--color-heading); }
+.champion-type-badge { display: block; }
+button:focus-visible, a:focus-visible, input:focus-visible { outline: 3px solid var(--color-primary); outline-offset: 3px; }
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; border: 0; }
+footer { padding: 1rem 1.5rem; }
+
+@media (max-width: 900px) {
+  main { grid-template-columns: minmax(0, 1fr); }
+  #teambuilder-section { grid-row: 1; }
+}
+
+@media (max-width: 480px) {
+  main { padding: .75rem; gap: .75rem; }
+  #champions-container, #teambuilder-section { padding: .75rem; }
+  .champions-header { flex-wrap: wrap; gap: 0; }
+  #search-bar { width: 100%; margin-bottom: 1rem; }
+  .champion-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .role-select { gap: .5rem; padding: .65rem; }
+  .role-icon { width: 20px; }
+  .slot-portrait, .empty-portrait { width: 44px; height: 44px; }
+  .nav { flex-wrap: wrap; }
+  .nav a { padding: .75rem; }
 }

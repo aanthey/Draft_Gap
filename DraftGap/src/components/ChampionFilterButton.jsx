@@ -4,7 +4,7 @@ const ChampionFilters = ({filters}) => {
         <div className="filter-button">
             <ul>
                 {filters.map((filters) => (
-                    <li key={['All','Mage',"Tank","Assassin","Marksman","Support"]}>
+                    <li key={filters}>
                         <button type="button">{filters}</button>
                     </li>
                 ))}
