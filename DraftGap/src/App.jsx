@@ -9,6 +9,13 @@ import ChampionFilters from './components/ChampionFilterButton'
 import champions from './champions.json'
 
 function App() {
+  const [selectedFilter, setSelectedFilter] = useState('All')
+  const [searchQuery, setSearchQuery] = useState('')
+  const normalizedQuery = searchQuery.trim().toLowerCase()
+  const visibleChampions = champions.filter((champion) =>
+    (selectedFilter === 'All' || champion.tags.includes(selectedFilter)) &&
+    champion.name.toLowerCase().includes(normalizedQuery)
+  )
   const [team, setTeam] = useState({})
   const [activeRole, setActiveRole] = useState('top')
   const [announcement, setAnnouncement] = useState('')
@@ -47,12 +54,20 @@ function App() {
       <div id='champions-container'>
         <div className='champions-header'>
           <h2>Champions</h2>
-          <SearchBar/>
+          <SearchBar query={searchQuery} onQueryChange={setSearchQuery} />
         </div>
-        <ChampionFilters filters = {["All","Mage","Marksman","Assassin","Tank","Support"]} />
+        <ChampionFilters
+          filters={["All", "Fighter", "Mage", "Marksman", "Assassin", "Tank", "Support"]}
+          selectedFilter={selectedFilter}
+          onFilterChange={setSelectedFilter}
+        />
+        <p className="filter-results" role="status">{visibleChampions.length} {visibleChampions.length === 1 ? 'champion' : 'champions'} · {selectedFilter}</p>
         <p className="pick-instruction">Choose a champion for <strong>{activeRoleLabel}</strong>.</p>
+        {visibleChampions.length === 0 && (
+          <p className="search-empty">No champions match your search and class filter. Try another name or select All.</p>
+        )}
         <div className="champion-grid">
-          <ChampionCard champions={champions} onSelect={chooseChampion} team={team} activeRoleLabel={activeRoleLabel} />
+          <ChampionCard champions={visibleChampions} onSelect={chooseChampion} team={team} activeRoleLabel={activeRoleLabel} />
         </div>
       </div>
       <Builder team={team} activeRole={activeRole} onSelectRole={setActiveRole} onRemove={removeChampion} />

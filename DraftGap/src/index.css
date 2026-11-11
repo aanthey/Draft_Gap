@@ -1,6 +1,5 @@
 * {
   box-sizing: border-box;
-  scrollbar-width: none;
 }
 
 body {
@@ -8,4 +7,12 @@ body {
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
+}
+
+html {
+  scroll-padding-top: 120px;
+}
+
+body {
+  min-width: 280px;
 }
