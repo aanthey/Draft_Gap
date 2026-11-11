@@ -1,4 +1,5 @@
 import { roles } from '../roles'
+import TeamSummary from './TeamSummary'
 
 export default function Builder({ team, activeRole, onSelectRole, onRemove }) {
   const count = roles.filter((role) => team[role.id]).length
@@ -36,6 +37,7 @@ export default function Builder({ team, activeRole, onSelectRole, onRemove }) {
         })}
       </div>
       <p className="builder-summary">{count === 5 ? 'Your team is ready. You can still change any pick.' : `${5 - count} ${count === 4 ? 'role' : 'roles'} left to fill.`}</p>
+      <TeamSummary team={team} />
     </section>
   )
 }

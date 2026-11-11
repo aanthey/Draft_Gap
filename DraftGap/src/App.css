@@ -311,3 +311,21 @@ footer { max-width: 1440px; margin-inline: auto; padding: 1rem clamp(1rem, 2vw, 
   font-size: .875rem;
   margin-block: .5rem;
 }
+
+/* Composition follows the builder at every viewport size. */
+.team-summary {
+  margin-top: 1.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--color-border);
+}
+.team-summary h3 { margin: 1.25rem 0 .5rem; font-size: 1rem; }
+.summary-progress, .summary-note { color: var(--color-text-muted); font-size: .875rem; }
+.summary-note { margin: .5rem 0; }
+.class-coverage { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .5rem; }
+.class-coverage > div { display: flex; justify-content: space-between; gap: .5rem; padding: .65rem .75rem; border: 1px solid var(--color-border); border-radius: var(--radius-card); color: var(--color-text-muted); }
+.class-coverage .class-present { background: var(--color-surface); color: var(--color-heading); }
+.class-coverage dd { margin: 0; font-weight: 700; }
+.team-strengths { list-style: none; padding: 0; display: grid; gap: .75rem; }
+.team-strengths li { display: grid; gap: .2rem; }
+.team-strengths strong { font-size: .875rem; color: var(--color-heading); }
+.team-strengths span { font-size: .875rem; color: var(--color-text-muted); }
